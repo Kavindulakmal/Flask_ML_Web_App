@@ -21,3 +21,5 @@ You must have
 16. threadpoolctl==2.1.0
 17. Werkzeug==1.0.1(for Machine Learning Model) and <br>
 Flask (for API) installed.
+
+### Project Structure
