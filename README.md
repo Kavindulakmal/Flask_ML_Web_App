@@ -23,8 +23,8 @@ You must have
 
 ### Project Structure
 inside app folder
-1.app.py - This contains Flask APIs that receive employee details through  API calls
-2. templates -This folder contains the HTML template (index.html) to allow  the enter  of detail and display the predicted graph.
-3. static - This folder contains the files that are downloaded images from the app.
+1. app.py - This contains Flask APIs that receive employee details through  API calls.<br>
+2. templates -This folder contains the HTML template (index.html) to allow  the entry  of details and display the predicted graph.<br>
+3. static - This folder contains the files that are downloaded images from the app.<br>
 
 
