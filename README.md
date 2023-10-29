@@ -36,7 +36,7 @@ And activate virtual environment by running the below command from the command p
 ```
 .env\Scripts\activate
 ```
-Go to the app folder and run the below command from the command prompt
+Go to the `app` folder and run the below command from the command prompt
 ```
 flask run
 ```
