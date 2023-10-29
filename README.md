@@ -32,6 +32,14 @@ Ensure that you are in the project home directory. Create the virtual environmen
 ```
 python -m venv .env
 ```
+And activate virtual environment by running the below command from the command prompt
+```
+.env\Scripts\activate
+```
+Go to the app folder and run the below command from the command prompt
+```
+flask run
+```
 
 
 
