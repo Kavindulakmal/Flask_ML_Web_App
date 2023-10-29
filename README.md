@@ -19,7 +19,12 @@ You must have
 14. scipy==1.6.2
 15. six==1.15.0
 16. threadpoolctl==2.1.0
-17. Werkzeug==1.0.1(for Machine Learning Model) and <br>
-Flask (for API) installed.
+17. Werkzeug==1.0.1(for Machine Learning Model) and Flask (for API) installed.
 
 ### Project Structure
+inside app folder
+1.app.py - This contains Flask APIs that receive employee details through  API calls
+2. templates -This folder contains the HTML template (index.html) to allow  the enter  of detail and display the predicted graph.
+3. static - This folder contains the files that are downloaded images from the app.
+
+
