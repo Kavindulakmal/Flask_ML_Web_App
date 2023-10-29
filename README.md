@@ -49,6 +49,14 @@ You should be able to view the homepage.
 Input a comma-separated list of age values like `1,2,17.4`.
 If everything goes well, you should be able to see the predicted  values on the HTML page! 
 
+### Contributing
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
+
+Happy Coding!!!
+
+### Copyright
+© KAVINDU™ | 2023
+
 
 
 
