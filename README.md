@@ -46,7 +46,7 @@ Navigate to URL http://127.0.0.1:5000/ (or) http://localhost:5000
 
 You should be able to view the homepage.
 
-Input a comma-separated list of age values like `1,2,17.4`
+Input a comma-separated list of age values like `1,2,17.4`.
 If everything goes well, you should be able to see the predicted  values on the HTML page! 
 
 
