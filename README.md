@@ -28,7 +28,7 @@ inside app folder
 3. static - This folder contains the files that are downloaded images from the app.<be>
 
 ### Running the project
-Ensure that you are in the project home directory. Create the virtual environment by running the below command from the command prompt -
+1.Ensure that you are in the project home directory. Create the virtual environment by running the below command from the command prompt -
 ```
 python -m venv .env
 ```
@@ -36,10 +36,18 @@ And activate virtual environment by running the below command from the command p
 ```
 .env\Scripts\activate
 ```
-Go to the `app` folder and run the below command from the command prompt
+2.Go to the `app` folder and run the below command from the command prompt
 ```
 flask run
 ```
+By default, flask will run on port 5000.
+
+3. Navigate to URL http://127.0.0.1:5000/ (or) http://localhost:5000
+
+You should be able to view the homepage.
+
+Enter valid numerical values in all 3 input boxes and hit Predict.
+
 
 
 
