@@ -3,7 +3,7 @@ This is a project to elaborate how to use a Machine Learning model using Flask A
 
 ### Prerequisites
 You must have 
-click==7.1.2 
+1. click==7.1.2 
 Flask==1.1.2
 itsdangerous==1.1.0
 Jinja2==2.11.3
